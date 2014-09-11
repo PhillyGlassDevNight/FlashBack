@@ -1,6 +1,6 @@
 package phillydevnight.flashback.services;
 
-class BackEndService() {
+class BackEndService {
   void upload_story(Story story, UploadCallback callback) {
     // Marshaling bytes, 
     // Start HTTP request
